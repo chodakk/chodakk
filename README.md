@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  [![CHODAKK'S PROFILE](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+  ![CHODAKK'S PROFILE](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
 </div>
 
 <!--내용 부분-->
