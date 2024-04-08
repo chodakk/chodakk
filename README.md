@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=CHODAKK's+GITHUB+PROFILE", align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Chodakk's+Github+Profilesvg">
 </div>
 
 <!--내용 부분-->
